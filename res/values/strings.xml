@@ -300,6 +300,12 @@
     <string name="reticker_colored_title">Use app colored background</string>
     <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
 
+    <!-- Statusbar Clock background chip -->
+    <string name="statusbar_clock_chip_title">Hintergrundchip anzeigen</string>
+    <string name="statusbar_clock_chip_summary">Akzentuierter Chip hinter der Uhr anzeigen</string>
+    <string name="statusbar_clock_chip_title">Background chip</string>
+    <string name="statusbar_clock_chip_summary">Display accented chip behind clock</string>
+    
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Colored icons</string>
     <string name="statusbar_colored_icons_summary">Use proper app icons for notification icons in status bar</string>
