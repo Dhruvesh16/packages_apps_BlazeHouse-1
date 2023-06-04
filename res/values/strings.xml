@@ -301,12 +301,7 @@
     <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
 
     <!-- Statusbar Clock background chip -->
-    <string name="statusbar_clock_chip_title">Hintergrundchip anzeigen</string>
-    <string name="statusbar_clock_chip_summary">Akzentuierter Chip hinter der Uhr anzeigen</string>
     <string name="statusbar_clock_chip_title">Background chip</string>
-    <string name="solid_accent">Einfarbig</string>
-    <string name="outline">Umrisslinie</string>
-    <string name="solid_accent_gradient">Akzentverlauf</string>
     <string name="statusbar_clock_chip_summary">Display accented chip behind clock</string>
     <string name="solid_accent">Solid color accent</string>
     <string name="outline">Outline</string>
